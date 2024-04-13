@@ -1,0 +1,24 @@
+{
+  "name": "logomaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJoyner2/LogoMaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJoyner2/LogoMaker/issues"
+  },
+  "homepage": "https://github.com/TJoyner2/LogoMaker#readme",
+  "dependencies": {
+    "chroma": "^0.0.1",
+    "chroma-js": "^2.4.2",
+    "inquirer": "^8.2.4"
+  }
+}
